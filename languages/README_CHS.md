@@ -2,7 +2,7 @@
 <h1>AMD Vanilla OpenCore</h1>
 </span>
 
-### 语言: [English](../README.md), [Ukrainian](./README_UA.md), [Russian](./README_RUS.md), [Traditional Chinese](./README_CHT.md), [Spanish](./README_ES.md), 简体中文(当前选中), [Vietnamese](./README_VI.md)
+### 语言: [English](../README.md), [Ukrainian](./README_UA.md), [Russian](./README_RUS.md), [繁體中文](./README_CHT.md), [Spanish](./README_ES.md), 简体中文(当前选中), [Vietnamese](./README_VI.md)
 内核二进制补丁，使macOS近乎原生支持AMD CPU
 
 ### 功能
@@ -27,6 +27,7 @@
 - High Sierra 10.13.x
 - Mojave 10.14.x
 - Catalina 10.15.x
+- Big Sur 11.x
 
 ### 说明
 - 从App Store下载MacOS High Sierra、Mojave或Catalina
